@@ -1,1 +1,1 @@
-# King.KhOad
+# Everything I place in this repository are examples of my work I feel show my current skill level in coding. For the most part all examples will be in C++ however as I learn new languages there may be in said languages (Planning on dabbling in Java & Python after I get a good grasp on C++).
